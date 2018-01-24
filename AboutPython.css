@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#master{
+    border: 2px solid black;
+    width: 970px;
+    margin: 0 auto;
+}
+#top{
+    color: #245076;
+    height: 60%;
+}
+#picture{
+    max-width: 40%;
+    display: inline-block;
+}
+#headerRight{
+    max-width: 60%;
+}
+.topYellow{
+    color: #c3a900;
+    text-decoration: underline;
+}
+#black{
+    color: black;
+}
+#grey{
+    max-height: 50%;
+    max-width: 60%;
+    color: #444444;
+}
+#search{
+    max-height: 60%;
+    max-width: 50%;
+    display: inline-block;
+    background-color: white;
+}
+#go{
+    background-color: #245076;
+    width: 20px;
+    height: 18px;
+}
+#menu{
+    background-color: linear-gradient(#3474ad, #477ead, #3474ad);
+    display: inline;
+    max-width: 80%;
+    height: 50px;
+    font-size: 32px;
+}
+#index{
+    text-align: center;
+    display: inline-block;
+    max-width: 30%;
+    text-decoration: underline;
+    font-size: 25px;
+}
+#midRight{
+    max-width: 70%;
+}
+#paragraph{
+    max-height: 20%;
+}
+#words{
+    max-height: 70%;
+}
+.yellow{
+    font-size: 28px;
+    color: #ecca36;
+}
+#middle{
+    max-height: 30%;
+    background-color: white;
+}
+.mid{
+    display: inline-block;
+    max-width: 50%;
+    text-align: center;
+}
+.links{
+    color: #7aacd8;
+}
+#bottom{
+    background-color: linear-gradient(#7aacd8, #3473ac);
+    max-height: 10%;
+    text-align: center;
+}
+.faded{
+    color: #7eb1dd;
+    display: inline;
+    font-size: 25px;
+}
+#copyright{
+    font-size: 8px;
+}
